@@ -6,8 +6,8 @@
 📌 hit enter
 📌 change the directory to project #week10
   🔴 ng serve
-  🔴 
-  🔴
+  🔴 http://localhost:4200/
+  🔴 ng serve --open
   🔴
 
 
