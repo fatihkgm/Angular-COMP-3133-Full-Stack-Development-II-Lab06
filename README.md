@@ -1,4 +1,4 @@
-# COMP-3133-Full-Stack-Development-II-Lab06
+# COMP-3133-Full-Stack-Development-II-Lab06 // Angular
 
 
 📌 ng new week10
