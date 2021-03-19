@@ -8,6 +8,8 @@
   🔴 ng serve
   🔴 http://localhost:4200/
   🔴 ng serve --open
-  🔴
 
+
+📌 Bootsrap cdm implemented in index.html
+  🔴 footer style implemented in style.css
 
