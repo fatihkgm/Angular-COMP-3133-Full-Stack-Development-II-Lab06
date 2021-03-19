@@ -1,5 +1,5 @@
 <h1>{{ title }} / Welcome my app!</h1>
 <h2>Company is :{{ name }}</h2>
-<h3>Today is :{{ today }}</h3>
+<h3>Today is :{{ today | date: "medium" }}</h3>
 
 <router-outlet></router-outlet>
